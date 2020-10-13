@@ -1,0 +1,12 @@
+C:\Users\acer\Desktop\2.33_1\HW\HW\bin\Debug\HW.exe.config
+C:\Users\acer\Desktop\2.33_1\HW\HW\bin\Debug\HW.exe
+C:\Users\acer\Desktop\2.33_1\HW\HW\bin\Debug\HW.pdb
+C:\Users\acer\Desktop\2.33_1\HW\HW\bin\Debug\HW.xml
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.Form1.resources
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.Resources.resources
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.exe
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.xml
+C:\Users\acer\Desktop\2.33_1\HW\HW\obj\Debug\HW.pdb
